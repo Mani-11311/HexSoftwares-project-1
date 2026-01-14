@@ -32,7 +32,7 @@ You don't need to install anything! This is a pure static application.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/glass-todo.git](https://github.com/your-username/glass-todo.git)
+    git clone [https://github.com/Mani-11311/HexSoftwares-project-1/tree/main]
     ```
 
 2.  **Open the App**
