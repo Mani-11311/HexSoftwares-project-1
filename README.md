@@ -53,5 +53,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ and < 20kb of code.
+  Made by Mani Chaturvedi.
 </p>
