@@ -1,3 +1,5 @@
+<img width="1897" height="850" alt="Screenshot 2026-01-14 191017" src="https://github.com/user-attachments/assets/175a9494-a2db-4027-b47d-d9dfc85dc8a1" />
+<img width="1918" height="848" alt="Screenshot 2026-01-14 190826" src="https://github.com/user-attachments/assets/031bfbc0-33af-44dd-a42d-bf8a0411225b" />
 # HexSoftwares-project-1
 # 🔮 Glass Todo List
 
