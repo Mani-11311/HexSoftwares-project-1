@@ -1,5 +1,3 @@
-<img width="1897" height="850" alt="Screenshot 2026-01-14 191017" src="https://github.com/user-attachments/assets/175a9494-a2db-4027-b47d-d9dfc85dc8a1" />
-<img width="1918" height="848" alt="Screenshot 2026-01-14 190826" src="https://github.com/user-attachments/assets/031bfbc0-33af-44dd-a42d-bf8a0411225b" />
 # HexSoftwares-project-1
 # 🔮 Glass Todo List
 
@@ -47,6 +45,8 @@ The application uses a specific gradient palette to achieve the "Deep Space" gla
 * **Background**: Linear gradient shifting between `#667eea`, `#764ba2`, `#f093fb`, and `#4facfe`.
 * **Glass Cards**: `rgba(255, 255, 255, 0.15)` with a 20px blur.
 * **Typography**: Poppins (Weights: 300, 400, 500, 600, 700).
+<img width="1897" height="850" alt="Screenshot 2026-01-14 191017" src="https://github.com/user-attachments/assets/175a9494-a2db-4027-b47d-d9dfc85dc8a1" />
+<img width="1918" height="848" alt="Screenshot 2026-01-14 190826" src="https://github.com/user-attachments/assets/031bfbc0-33af-44dd-a42d-bf8a0411225b" />
 
 ## 📄 License
 
